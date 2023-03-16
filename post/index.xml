@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Emil Rivera-Thorsen</title>
+    <title>Posts on T. Emil Rivera-Thorsen</title>
     <link>https://username.github.io/post/</link>
-    <description>Recent content in Posts on Emil Rivera-Thorsen</description>
+    <description>Recent content in Posts on T. Emil Rivera-Thorsen</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
     <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
@@ -14,8 +14,7 @@
       <pubDate>Thu, 07 Jul 2022 02:48:00 +0200</pubDate>
       <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
       <guid>https://username.github.io/post/testing-ox-hugo-capture-template/</guid>
-      <description>So it does not add date to the file name. But does it actually show the file name in the right order on the blog? 🌿 🌊
-🥬🌊&amp;hellip;</description>
+      <description>So it does not add date to the file name. But does it actually show the file name in the right order on the blog? 🥬🌊&amp;hellip;</description>
     </item>
     
     <item>
