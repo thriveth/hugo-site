@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Emil Rivera-Thorsen</title>
+    <link>https://username.github.io/page/</link>
+    <description>Recent content in Pages on Emil Rivera-Thorsen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <lastBuildDate>Fri, 05 Aug 2022 17:08:00 +0200</lastBuildDate><atom:link href="https://username.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sunburst Arc</title>
+      <link>https://username.github.io/page/sunburst/</link>
+      <pubDate>Fri, 05 Aug 2022 17:08:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/sunburst/</guid>
+      <description>&lt;p&gt;The Sunburst Arc is a&amp;hellip; (bla bla bla)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>https://username.github.io/page/outreach/</link>
+      <pubDate>Tue, 05 Jul 2022 03:21:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/outreach/</guid>
+      <description>&lt;p&gt;Shared joy is double joy, as the saying goes. I have enjoyed sharing
+the wonders of the Universe and my own research with Space enthusiasts
+of various walks of life for as long as I have been active in science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Haro 11</title>
+      <link>https://username.github.io/page/haro11/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/haro11/</guid>
+      <description>Something something about Haro 11. There is a lot to write.</description>
+    </item>
+    
+    <item>
+      <title>JWST</title>
+      <link>https://username.github.io/page/jwst/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/jwst/</guid>
+      <description>&lt;p&gt;My work with JWST.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://username.github.io/page/research/</link>
+      <pubDate>Fri, 01 Jul 2022 17:49:00 +0200</pubDate>
+      <author>trive@astro.su.se (Emil Rivera-Thorsen)</author>
+      <guid>https://username.github.io/page/research/</guid>
+      <description>I am an observational extragalactic astronomer specialized in the study of star formation and the interstellar medium in highly star-forming (or starburst) galaxies. I study these galaxies using some of the most advances telescopes in the world, including the ESO Very Large Telescope in Paranal, Chile, as well as the Hubble Space Telescope and the new, exciting JWST. Below is a list of some of the projects I have either led or been involved in over the last few years.</description>
+    </item>
+    
+  </channel>
+</rss>
