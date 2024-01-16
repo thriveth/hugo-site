@@ -5,7 +5,9 @@
     <link>https://username.github.io/tags/</link>
     <description>Recent content in Tags on T. Emil Rivera-Thorsen</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <managingEditor>trive@astro.su.se (Emil Rivera-Thorsen)</managingEditor>
-    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster><atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>trive@astro.su.se (Emil Rivera-Thorsen)</webMaster>
+    <atom:link href="https://username.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

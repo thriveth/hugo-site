@@ -47,8 +47,18 @@
     <loc>https://username.github.io/categories/moi/</loc>
     <lastmod>2022-05-30T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>https://username.github.io/page/allposts/</loc>
+  </url><url>
+    <loc>https://username.github.io/posts/allposts/</loc>
+  </url><url>
     <loc>https://username.github.io/page/media/</loc>
   </url><url>
     <loc>https://username.github.io/tags/</loc>
+  </url><url>
+    <loc>https://username.github.io/index.html</loc>
+  </url><url>
+    <loc>https://username.github.io/posts/</loc>
+  </url><url>
+    <loc>https://username.github.io/posts/</loc>
   </url>
 </urlset>
